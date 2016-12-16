@@ -1,0 +1,1 @@
+Assignments when I took online class Functional Programming Principles in Scala from Coursera.
